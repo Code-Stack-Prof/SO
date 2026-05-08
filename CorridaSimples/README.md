@@ -78,7 +78,7 @@ java -cp bin Main
 
 ---
 
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario)
+Desenvolvido por [Prof, Douglas Cunha](https://github.com/dscunha)
 ```
 
 ---
