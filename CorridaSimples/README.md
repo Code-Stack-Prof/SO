@@ -1,10 +1,9 @@
-Aqui está um modelo estruturado em Java puro (Console):
+Aqui está um modelo estruturado em Java para Console  (Terminal)
 ---
 
+# Projeto
 ```markdown
-# Projeto Java Puro
-
-Este repositório contém um projeto desenvolvido em **Java Standard Edition (Java SE)**,
+Neste Diretório Corrida Simples, contém um projeto desenvolvido em **Java Standard Edition (Java SE)**,
 sem a necessidade de frameworks ou gerenciadores de dependência externos (como Maven ou Gradle).
 
 * Aplicação em JAVA Sequencial sem concorrência (sem Threads) e sem a Interface Gráfica.
@@ -12,7 +11,7 @@ sem a necessidade de frameworks ou gerenciadores de dependência externos (como 
 * A tela é substituída por saídas no terminal (System.out.println), o que torna o código mais enxuto e ideal para focar puramente na lógica de controle de fluxo.
 
 "Aqui está um código Java, que funciona (roda) direto no terminal usando a sintaxe do Java 5"
-
+```
 
 ## 🚀 Pré-requisitos
 
@@ -36,7 +35,7 @@ Para transformar o código-fonte (`.java`) em bytecode (`.class`), utilize o com
 No terminal, navegue até a pasta onde estão os arquivos e execute:
 
 ```bash
-javac NomeDoArquivo.java
+javac CorridaSaposConsole.java
 ```
 *Isso gerará um arquivo chamado `NomeDoArquivo.class`.*
 
@@ -44,7 +43,7 @@ javac NomeDoArquivo.java
 Após a compilação, você pode rodar o programa com o comando `java`:
 
 ```bash
-java NomeDoArquivo
+java CorridaSaposConsole
 ```
 > **Nota:** Não inclua a extensão `.class` ao executar o comando.
 
