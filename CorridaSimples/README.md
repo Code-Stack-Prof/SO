@@ -4,7 +4,8 @@ Aqui está um modelo estruturado em Java puro (Console):
 ```markdown
 # Projeto Java Puro
 
-Este repositório contém um projeto desenvolvido em **Java Standard Edition (Java SE)**, sem a necessidade de frameworks ou gerenciadores de dependência externos (como Maven ou Gradle).
+Este repositório contém um projeto desenvolvido em **Java Standard Edition (Java SE)**,
+sem a necessidade de frameworks ou gerenciadores de dependência externos (como Maven ou Gradle).
 
 * Aplicação em JAVA Sequencial sem concorrência (sem Threads) e sem a Interface Gráfica.
 * O objetivo é manter a lógica sequencial (sem Threads), o código se torna um clássico aplicativo de console (CLI). 
